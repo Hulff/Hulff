@@ -1,4 +1,4 @@
-<h1 align="center">> Eu me chamo Hugo</h1>
+<h1 align="center"><Eu me chamo Hugo></h1>
 <h3 align="center">Sou um estudante de Ciência da Computação na UFCA,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hulff&label=Profile%20views&color=0e75b6&style=flat" alt="hulff" /> </p>
