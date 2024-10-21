@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Monitor Queimadas**
 
-- 🌱 I’m currently learning **SwiftUi**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **ph2717693@gmail.com**
 
